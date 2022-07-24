@@ -13,7 +13,7 @@ The purpose of this project is to review the production data for insights that m
 
 ## Linear Regression to Predict MPG
 
-![image](https://user-images.githubusercontent.com/102786356/180636754-43f6d81e-7918-4953-bdad-21fd8833e89e.png)
+![image](https://user-images.githubusercontent.com/102786356/180637805-1c7b3df7-56fe-4948-8ef3-5cf148dc2ec1.png)
 
 #### Written Summary
 
