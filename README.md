@@ -66,7 +66,8 @@ which is not so far off from the population mean of 1500.
 ![image](https://user-images.githubusercontent.com/102786356/180639027-3bb1dd07-db23-4f20-8d7c-95c62d316438.png)
 
 #### Written Summary
-
+With significance level at 0.05, we fail to reject the null hypothesis of both Lot 1 and Lot 2. This is because, Lot 1 has a p-value of 1 and Lot 2 has a p-value of 0.61. With means of 1500 and 1500.2 respectively, they are both statistically similar to the population mean of 1500. 
+Lot 3, which has a p-value of 0.04 much lower than the significance level of 0.05 we reject the null hypothesis. The sample mean 1496.14, is also significantly smaller in comparison to Lots 1 and 2. 
 
 
 
