@@ -70,4 +70,23 @@ With significance level at 0.05, we fail to reject the null hypothesis of both L
 Lot 3, which has a p-value of 0.04 much lower than the significance level of 0.05 we reject the null hypothesis. The sample mean 1496.14, is also significantly smaller in comparison to Lots 1 and 2. 
 
 
+## Study Design: MechaCar vs Competition
+A statistical study that could be performed to compare the performance of MechaCar vehicles against performance of its competitors is reliability. With the constant rise in costs of buying and maintaining a car, consumers always consider reliability when shopping for cars.  
+
+**Metrics**
+1. Safety System
+2. Fuel Consumption
+3. Total Recalls over 3 years
+4. Avg. Maintenance Cost
+5. Avg. Repair Cost
+6. Avg. Repair Time
+
+**Null hypothesis or Alternative hypothesis**
+1. Null hypothesis - MechaCar is the most reliable against its competitors based on the metrics.
+2. Alternate hypothesis - MechaCar is not the most reliable against its competitors based on the metrics.
+
+**Statistical Test**
+
+An ANOVA dTest will be used to determine if the means of the metrics for MechaCar is significantly different from its competitor, hence making it more reliable or not.   
+
 
