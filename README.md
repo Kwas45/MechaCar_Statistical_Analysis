@@ -24,3 +24,19 @@ The purpose of this project is to review the production data for insights that m
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
+## Summary Statistics on Suspension Coils
+
+### Total_Summary
+![image](https://user-images.githubusercontent.com/102786356/180638094-33c04ef5-5622-41f9-8890-8084d318ddf7.png)
+
+
+### Lot_Summary
+![image](https://user-images.githubusercontent.com/102786356/180638171-88aa52c5-d72c-4a59-9fa0-1db7e554486d.png)
+
+#### Written Summary
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+
+
+
