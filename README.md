@@ -11,6 +11,9 @@ The purpose of this project is to review the production data for insights that m
 > _Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings._
 
 ## Resources
+[MechaCar_MPG](https://github.com/Kwas45/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
+
+[Suspension_Coil](https://github.com/Kwas45/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
 
 ## Linear Regression to Predict MPG
 
