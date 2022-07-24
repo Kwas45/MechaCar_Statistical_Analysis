@@ -39,4 +39,20 @@ The purpose of this project is to review the production data for insights that m
 
 
 
+## T-Tests on Suspension Coils
+#### T-Test on all lots
+
+![image](https://user-images.githubusercontent.com/102786356/180638935-83e77f8b-49cd-47be-ae3d-45a207f65931.png)
+
+#### Written Summary
+
+
+#### T-Test on each lot
+
+![image](https://user-images.githubusercontent.com/102786356/180639027-3bb1dd07-db23-4f20-8d7c-95c62d316438.png)
+
+#### Written Summary
+
+
+
 
