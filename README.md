@@ -14,3 +14,13 @@ The purpose of this project is to review the production data for insights that m
 ## Linear Regression to Predict MPG
 
 ![image](https://user-images.githubusercontent.com/102786356/180636754-43f6d81e-7918-4953-bdad-21fd8833e89e.png)
+
+#### Written Summary
+
+* Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+* Is the slope of the linear model considered to be zero? Why or why not?
+ 
+* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+
